@@ -1,0 +1,10 @@
+.section-center {
+  /* background-color: blue; */
+  width: 100vw;
+  margin: 0 auto;
+  max-width: 1200px;
+  display: grid;
+  gap: 2rem 1rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+}
