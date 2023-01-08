@@ -1,4 +1,0 @@
-size cut on gimp
-
-after ss: 1100 x 650
-after canva: 937 x 675
