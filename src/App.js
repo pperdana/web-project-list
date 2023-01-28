@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import items from "./dummy-data";
+import items from "./data.json";
+
 import Categories from "./components/categories/categories.component";
 import ProjectList from "./components/project-list/project-list.component";
 const allCategories = ["all", ...new Set(items.map((item) => item.category))];

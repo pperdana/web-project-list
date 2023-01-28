@@ -1,0 +1,154 @@
+[
+    {
+        "title": "crown clothing",
+        "id": 1,
+        "category": "react",
+        "url": "https://playful-horse-e58e24.netlify.app/",
+        "img": "./images/crown clothing.jpeg",
+        "desc": "It's a clone of a large e-commerce, which has functionality such as authentication, adding payments, store state, store user information etc."
+    },
+    {
+        "title": "quote generator",
+        "id": 2,
+        "category": "javascript",
+        "url": "https://cute-cupcake-6cdd4a.netlify.app/",
+        "img": "./images/quote generator.jpeg",
+        "desc": "This website display new quote every time you click the button using asynchronous fetch request to arrest API in order to get the quotes. And it will display loader when this takes a long time to load the website."
+    },
+    {
+        "title": "keeper app",
+        "id": 3,
+        "category": "react",
+        "url": "https://comforting-biscochitos-6ab358.netlify.app/",
+        "img": "./images/keeper app.jpeg",
+        "desc": "It's clone of google keep, so whenever you have new idea you can add new note into you keeper app."
+    },
+    {
+        "title": "monsters rolodex",
+        "id": 4,
+        "category": "react",
+        "url": "https://jocular-genie-033c25.netlify.app/",
+        "img": "./images/monsters rolodex.jpeg",
+        "desc": "Display list of monsters and also you can filter it with search button for specific name."
+    },
+    {
+        "title": "stats preview card",
+        "id": 5,
+        "category": "html",
+        "url": "https://stats-preview-card-component-main-frontend.netlify.app/",
+        "img": "./images/stats preview card.jpeg",
+        "desc": "Display page for statistic preview card component."
+    },
+    {
+        "title": "profile card",
+        "id": 6,
+        "category": "html",
+        "url": "https://profile-card-component-main-pperdana24.netlify.app/",
+        "img": "./images/profile card.jpeg",
+        "desc": "Display responsive layout for profile card component."
+    },
+    {
+        "title": "conter app",
+        "id": 7,
+        "category": "react",
+        "url": "https://transcendent-hotteok-09b5a8.netlify.app/",
+        "img": "./images/conter app.jpeg",
+        "desc": "Its simple page for counting and keeping track of numbers."
+    },
+    {
+        "title": "drum kit",
+        "id": 8,
+        "category": "javascript",
+        "url": "https://relaxed-sopapillas-d40544.netlify.app/",
+        "img": "./images/drum kit.jpeg",
+        "desc": "There are number of keys in this website that represent different drums in a typical drum set. And when you click on any of these buttons then you'll get the corresponding sound of the drum. And in addition you can also use the keys on the keyboard."
+    },
+    {
+        "title": "NFT preview card",
+        "id": 9,
+        "category": "html",
+        "url": "https://nft-preview-card-component-frontend.netlify.app/",
+        "img": "./images/NFT preview card.jpeg",
+        "desc": "Display layout for NFT preview card component."
+    },
+    {
+        "title": "dicee game",
+        "id": 10,
+        "category": "javascript",
+        "url": "https://delicate-kleicha-f23e0f.netlify.app/",
+        "img": "./images/dicee game.jpeg",
+        "desc": "There are Player 1 and Player 2 in this game. When you refresh the web site then dice get thrown randomly, so that player 1 and player 2 both have their own dice values, and the web site will announce a winner depending on whose dice value was higher."
+    },
+    {
+        "title": "real time clock app",
+        "id": 11,
+        "category": "react",
+        "url": "https://cerulean-jelly-d75395.netlify.app/",
+        "img": "./images/real time clock app.jpeg",
+        "desc": "This real time clock website displays your local current time."
+    },
+    {
+        "title": "simon game",
+        "id": 12,
+        "category": "javascript",
+        "url": "https://ephemeral-baklava-4d35c0.netlify.app/",
+        "img": "./images/simon game.jpeg",
+        "desc": "The Simon game is the game of lights and sounds, in this game player must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that challenge."
+    },
+    {
+        "title": "emojipedia",
+        "id": 13,
+        "category": "react",
+        "url": "https://statuesque-fox-b578b6.netlify.app/",
+        "img": "./images/emojipedia.jpeg",
+        "desc": "An emoji reference web that demonstrates the meaning and use of common emoji characters."
+    },
+    {
+        "title": "social proof",
+        "id": 14,
+        "category": "html",
+        "url": "https://social-proof-section-master-pperdana24.netlify.app/",
+        "img": "./images/social proof.jpeg",
+        "desc": "Display layout for Social proof section with css grid."
+    },
+    {
+        "title": "registration screen",
+        "id": 15,
+        "category": "react",
+        "url": "https://voluble-centaur-ae5454.netlify.app/",
+        "img": "./images/registration screen.jpeg",
+        "desc": "This registration screen page will display directly into screen for any given input for name and email."
+    },
+    {
+        "title": "todo list app",
+        "id": 16,
+        "category": "react",
+        "url": "https://tangerine-faun-cd82bb.netlify.app/",
+        "img": "./images/todo list app.jpeg",
+        "desc": "This todo list app you can use it to maintain your day-to-day tasks or list everything that you have to do."
+    },
+    {
+        "title": "column preview card",
+        "id": 17,
+        "category": "html",
+        "url": "https://3-column-preview-card-component-main-frontend.netlify.app/",
+        "img": "./images/column preview card.jpeg",
+        "desc": "Display responsive layout for column preview card component."
+    },
+    {
+        "title": "qr code card",
+        "id": 18,
+        "category": "html",
+        "url": "https://qr-code-component-frontend.netlify.app/",
+        "img": "./images/qr code card.jpeg",
+        "desc": "Display responsive layout QR code card component."
+    },
+    {
+        "title": "order summary",
+        "id": 19,
+        "category": "html",
+        "url": "https://order-summary-component-page.netlify.app/",
+        "img": "./images/order summary.jpeg",
+        "desc": "Display layouts for order summary component."
+    }
+]
